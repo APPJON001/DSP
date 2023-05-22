@@ -1,8 +1,11 @@
-**RESNET_PyTorch_90.py**
-    Residual Network model. Image inputs of size 120x120. Achieves an accuracy of approximately 89%.
-
-**RESNET_PyTorch_95.py**
-    Residual Network model - Image inputs of size 120x120 BUT resized down to 64x64. Achieves and accuracy of approximately 95%.
-
 **ResNet.py**
-    Most recent model! 97%
+    Untraditional Residual Network model with identity blocks. Achieves a test accuracy of approximately 98%. Training time > 5 mins
+    
+**Traditional_ResNet.py**
+    Traditional Residual Network model with convolutional blocks. Achieves a test accuracy of approximately 96%. Training time > 13 mins
+
+**CNN.py**
+    Convolutional Neural Network model. Achieves a test accuracy of approximately 97%. Training time > 3mins
+
+**MLP.py**
+    Multi-Layered Perceptron model. Achieves a test accuracy of approximately 24%. Training time > 2 mins
