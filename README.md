@@ -1,4 +1,4 @@
-**ResNet.py**
+**ResNet.py**\n
     Untraditional Residual Network model with identity blocks. Achieves a test accuracy of approximately 98%. Training time > 5 mins
     
 **Traditional_ResNet.py**
